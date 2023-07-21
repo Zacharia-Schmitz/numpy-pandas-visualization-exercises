@@ -1,1 +1,1 @@
-### Codeup exercises for NumPy, pandas, and visualization.
+# Repository for NumPy, pandas, and visualization exercises accomplished during Codeup
